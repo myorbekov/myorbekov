@@ -15,9 +15,8 @@ Welcome to my GitHub profile! I'm a passionate software developer with a love fo
 
 Here are some of the technologies and tools I work with:
 
-- Languages: ![Html,Css]([https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZm4Yivr5pTUH5tzbgsHKzmFkZm51QEx4TwQ&s)), ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black).
-- Frameworks: ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white), ![Django](https://img.shields.io/html/-html-092E20?style=flat-square&logo=html&logoColor=white)
-- Tools: ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white),  ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+- Languages: ![HTML CSS JavaScript
+- Tools: ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 ## 📈 GitHub Stats
 
