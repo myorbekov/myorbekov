@@ -15,7 +15,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with a love fo
 
 Here are some of the technologies and tools I work with:
 
-- Languages: ![HTML CSS JavaScript
+- Languages: ![HTML CSS JavaScript]
 - Tools: ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 ## 📈 GitHub Stats
